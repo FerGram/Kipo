@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Level - 0 Menu.unity
+    guid: a5dac1a3c7b41bf49bc308855890524c
+  - enabled: 1
+    path: Assets/Scenes/Level - 1 Introduction.unity
+    guid: bab3c3ae569e73546a00fb62a61c0cfe
+  - enabled: 1
+    path: Assets/Scenes/Level - 2 Platforming.unity
+    guid: aa8b97074be18664584becfc16bd6bb0
+  - enabled: 1
+    path: Assets/Scenes/Level - 3 Start Random Game & Random Jump Intro.unity
+    guid: e8e586e3c03b8af43a05f5c018e1674f
+  - enabled: 1
+    path: Assets/Scenes/Level - 4 Random Jump.unity
+    guid: 38667f2ee5f8b3047894ba58023e4d1c
+  - enabled: 1
+    path: Assets/Scenes/Level - 5 Random Jump.unity
+    guid: a8159a795f8c13e4abffe4b3373b6d0a
+  - enabled: 1
+    path: Assets/Scenes/Level - 6 Final Random Jump.unity
+    guid: 50a8bfdef1d8f1f47b20538bc9e139fe
+  - enabled: 1
+    path: Assets/Scenes/Level - 7 Intro to Random Gravity.unity
+    guid: e6b0ce0bf87a7be4ea3da8c7ea7b8cc7
+  - enabled: 1
+    path: Assets/Scenes/Level - 8 Random Gravity 1.unity
+    guid: 35d402f6eaebfb142a8c94a4dcd1214b
+  - enabled: 1
+    path: Assets/Scenes/Level - 9 Random Gravity 2.5.unity
+    guid: e5f1ef76b900fff4c91b0680c6bf1089
+  - enabled: 1
+    path: Assets/Scenes/Level - 10 Random Gravity 3.unity
+    guid: 3e17351477ad2334983952ad0b22394d
+  - enabled: 1
+    path: Assets/Scenes/Level - 11 Intro to World Rotation.unity
+    guid: 6337587ff5f688a4fbed1ee2f461ffdd
+  - enabled: 1
+    path: Assets/Scenes/Level - 12 World Rotation.unity
+    guid: 29b2b0cba21595a49a4b0d2840086b6c
+  - enabled: 1
+    path: Assets/Scenes/Level - 13 World Rotation.unity
+    guid: b6e7a5ec6d324714499146bb2d16fbe4
+  - enabled: 1
+    path: Assets/Scenes/Level - 14 All Mix.unity
+    guid: 0485fcefc02565c44a9b41c00ed91aa3
+  - enabled: 1
+    path: Assets/Scenes/Level - 15 Final World Rotation.unity
+    guid: 31126cb3fb7e28d4c9c7b5830939dece
+  - enabled: 1
+    path: Assets/Scenes/Level - 16 Mix Jump and Gravity 1.unity
+    guid: 07983a65213f5d24aa4e21af46ba92db
+  - enabled: 1
+    path: Assets/Scenes/Level - 17 Mix Jump and Gravity 2.unity
+    guid: c7be373eede472a47a9b69832784bb15
+  - enabled: 1
+    path: Assets/Scenes/Level - 18 Rotation and Gravity.unity
+    guid: 49c11166fcb9ff8419bb8b5ba6467748
+  - enabled: 1
+    path: Assets/Scenes/Level - 19 Mix World Rotation and Gravity 2.unity
+    guid: 2d860e96dce84964b9512ab23bf7be59
+  - enabled: 1
+    path: Assets/Scenes/Level - 20 Mix World Rotation and Gravity.unity
+    guid: 01d8b55dcff074941a28aee707badd77
+  - enabled: 1
+    path: Assets/Scenes/Level - 21 Mix all 1.unity
+    guid: e5667486c4ac903479dca04a550ca127
+  - enabled: 1
+    path: Assets/Scenes/Level - 22 Mix All 2.unity
+    guid: 6779c5a79a09b5f46a54fffea8004104
+  - enabled: 1
+    path: Assets/Scenes/Level - 23 Mix All 3.unity
+    guid: a65976fd44040604ca0938567d860241
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: 6be5d1bb899091f4bae8041486bbf2cc
+  m_configObjects: {}

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Enemy
+  - Phrase
+  - EnemyHead
+  - Metaball_liquid
+  - QuitButton
+  - Joystick
+  - Door
+  - GroundCheck
+  - Spike
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - WalkableForEnemy
+  - Ground
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3885620231
+    locked: 0
+  - name: Enemy
+    uniqueID: 3721077981
+    locked: 0
+  - name: Player
+    uniqueID: 249978361
+    locked: 0
